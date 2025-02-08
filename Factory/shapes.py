@@ -1,20 +1,24 @@
 import math
+from abc import ABC, abstractmethod
 
-class Shape:
+class AbstractShape(ABC):
     def __init__(self, color):
         self.color = color
 
+    @abstractmethod
     def draw(self):
-        raise NotImplementedError("draw() method must be implemented in subclasses.")
+        pass
 
+    @abstractmethod
     def area(self):
-        raise NotImplementedError("area() method must be implemented in subclasses.")
+        pass
 
+    @abstractmethod
     def perimeter(self):
-        raise NotImplementedError("perimeter() method must be implemented in subclasses.")
+        pass
 
 
-class Circle(Shape):
+class Circle(AbstractShape):
     def __init__(self, color, radius):
         super().__init__(color)
         self.radius = radius
@@ -29,7 +33,7 @@ class Circle(Shape):
         return 2 * math.pi * self.radius
 
 
-class Square(Shape):
+class Square(AbstractShape):
     def __init__(self, color, side):
         super().__init__(color)
         self.side = side
@@ -44,7 +48,7 @@ class Square(Shape):
         return 4 * self.side
 
 
-class Ellipse(Shape):
+class Ellipse(AbstractShape):
     def __init__(self, color, a, b):
         super().__init__(color)
         self.a = a
