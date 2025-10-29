@@ -32,6 +32,8 @@ This repository will gradually expand to include tutorials and examples for the 
 - Adapter
 - and more...
 
+---
+
 ## 📚 Why Design Patterns?
 
 Design patterns are proven solutions to common software design problems. Learning them will help you:
