@@ -41,3 +41,12 @@ Design patterns are proven solutions to common software design problems. Learnin
 
 ---
 
+## 👩‍💻 Author
+Lovingly crafted by [Hanka Robovska](https://github.com/hrosicka) 👩‍🔬
+
+---
+
+## 📝 License
+MIT – Free to use, modify, and distribute as needed.
+
+
