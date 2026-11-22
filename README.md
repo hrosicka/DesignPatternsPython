@@ -2,20 +2,20 @@
 
 <div align="center">
 
-  <a href="https://github.com/hrosicka/design-patterns-in-python/stargazers">
-    <img src="https://img.shields.io/github/stars/hrosicka/design-patterns-in-python?style=for-the-badge&color=4F8EF7&logo=starship&logoColor=white" alt="Stars" />
+  <a href="https://github.com/hrosicka/DesignPatternsPython/stargazers">
+    <img src="https://img.shields.io/github/stars/hrosicka/DesignPatternsPython?style=for-the-badge&color=4F8EF7&logo=starship&logoColor=white" alt="Stars" />
   </a>
-  <a href="https://github.com/hrosicka/design-patterns-in-python/network/members">
-    <img src="https://img.shields.io/github/forks/hrosicka/design-patterns-in-python?style=for-the-badge&color=4F8EF7&logo=git&logoColor=white" alt="Forks" />
+  <a href="https://github.com/hrosicka/DesignPatternsPython/network/members">
+    <img src="https://img.shields.io/github/forks/hrosicka/DesignPatternsPython?style=for-the-badge&color=4F8EF7&logo=git&logoColor=white" alt="Forks" />
   </a>
-  <a href="https://github.com/hrosicka/design-patterns-in-python/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/hrosicka/design-patterns-in-python?style=for-the-badge&color=4F8EF7&logo=github&logoColor=white" alt="Contributors" />
+  <a href="https://github.com/hrosicka/DesignPatternsPython/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/hrosicka/DesignPatternsPython?style=for-the-badge&color=4F8EF7&logo=github&logoColor=white" alt="Contributors" />
   </a>
-  <a href="https://github.com/hrosicka/design-patterns-in-python/commits/main">
-    <img src="https://img.shields.io/github/last-commit/hrosicka/design-patterns-in-python?style=for-the-badge&color=6366F1&logo=githubactions&logoColor=white" alt="Last Commit" />
+  <a href="https://github.com/hrosicka/DesignPatternsPython/commits/main">
+    <img src="https://img.shields.io/github/last-commit/hrosicka/DesignPatternsPython?style=for-the-badge&color=6366F1&logo=githubactions&logoColor=white" alt="Last Commit" />
   </a>
-  <a href="https://github.com/hrosicka/design-patterns-in-python/issues">
-    <img src="https://img.shields.io/github/issues/hrosicka/design-patterns-in-python?style=for-the-badge&color=F59E0B&logo=github&logoColor=white" alt="Issues" />
+  <a href="https://github.com/hrosicka/DesignPatternsPython/issues">
+    <img src="https://img.shields.io/github/issues/hrosicka/DesignPatternsPython?style=for-the-badge&color=F59E0B&logo=github&logoColor=white" alt="Issues" />
   </a>
   <br/>
 
@@ -24,7 +24,7 @@
   </a>
   <img src="https://img.shields.io/badge/Topic-Design%20Patterns-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white" alt="Design Patterns" />
   <img src="https://img.shields.io/badge/Category-Creational-EC4899?style=for-the-badge&logo=sparkles&logoColor=white" alt="Creational Patterns" />
-  <img src="https://img.shields.io/github/repo-size/hrosicka/design-patterns-in-python?style=for-the-badge&color=3B82F6&logo=files&logoColor=white" alt="Repo Size" />
+  <img src="https://img.shields.io/github/repo-size/hrosicka/DesignPatternsPython?style=for-the-badge&color=3B82F6&logo=files&logoColor=white" alt="Repo Size" />
   <br/>
 
   <a href="LICENSE">
